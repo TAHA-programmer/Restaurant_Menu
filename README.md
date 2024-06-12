@@ -1,1 +1,2 @@
 # Restaurant_Menu
+Developed a C++ restaurant menu system that streamlined the order-taking process and automated bill generation. The system featured user input for customer details, a menu display of 20 items with prices, and allowed orders of up to six dishes with specified quantities. It ensured accurate price calculation, including a 12% GST, and generated detailed bills showing ordered items, quantities, individual costs, subtotal, GST, and final total. This project enhanced efficiency in order management and improved the overall customer experience.
